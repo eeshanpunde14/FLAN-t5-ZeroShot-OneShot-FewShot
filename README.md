@@ -1,4 +1,4 @@
-##Flan-t5 Dialogue Summarization
+# Flan-t5 Dialogue Summarization
 
 This Github repository contains the implementation of Flan-t5, a state-of-the-art text-to-text transformer model, for the task of summarizing dialogues. The repository includes code for Zero Shot, One Shot, and Few Shot inference methods, allowing for flexible and efficient summarization of dialogues using the Flan-t5 model.
 
